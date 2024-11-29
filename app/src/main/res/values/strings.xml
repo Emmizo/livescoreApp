@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LiveScore</string>
+    <string name="football">Football</string>
+    <string name="for_you">For You</string>
+    <string name="favourites">Favourites</string>
+    <string name="live">LIVE</string>
+</resources>

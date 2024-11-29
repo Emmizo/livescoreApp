@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_football"
+        android:icon="@drawable/ic_football"
+        android:title="@string/football" />
+    <item
+        android:id="@+id/menu_favourites"
+        android:icon="@drawable/ic_favourites"
+        android:title="@string/favourites" />
+    <item
+        android:id="@+id/menu_for_you"
+        android:icon="@drawable/ic_for_you"
+        android:title="@string/for_you" />
+</menu>
